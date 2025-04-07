@@ -1,4 +1,4 @@
-# Scorecard-Project
+# Credit_Risk_Scorecard-Development
 Problem Statement:
 Predicting Credit Risk Using Applicant and Credit History Data
 
